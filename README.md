@@ -4,7 +4,7 @@ Second project challenge of [DIO](https://www.dio.me/) "SQL Database Specialist"
 
 ## 🚗 Car Workshop
 
-- **Entities:** 
+- **Entities:** Client, Vehicle, Mechanic, Team, Service Order, Service, Part
 
 ## 📖 Story
 
