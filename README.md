@@ -24,6 +24,10 @@ Second project challenge of [DIO](https://www.dio.me/) "SQL Database Specialist"
 
 Create the conceptual schema for the workshop context based on the narrative provided. 
 
+## ✅ Solution
+
+<img align="center" src="https://github.com/pedrobinelo/DB-Modeling-CarWorkshop/blob/main/car_workshop.png" width=""/> 
+
 ## 💻 Technologies 
 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
